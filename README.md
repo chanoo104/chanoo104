@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20eFFx%20%20&height=200&fontSize=100)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chanoo104&show_icons=true&theme={theme})](https://github.com/chanoo104/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=effx13&show_icons=true&theme={theme})](https://github.com/effx13/github-readme-stats)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=fakehg13)](https://solved.ac/fakehg13)
 * * *
 # Language 
