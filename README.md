@@ -1,5 +1,4 @@
 # Hello!👋
-I'm currently in Incheon Electronic Meister High School.<br/>
 Studying a lot to become a developer. 🤓
 * ### Interesting
   * Backend Engineering
