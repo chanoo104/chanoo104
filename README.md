@@ -1,16 +1,19 @@
 # Hello!👋
-Studying a lot to become a developer. 🤓
-* ### Interesting
-  * Backend Engineering
-  * MongoDB
-  * Docker
-  * CI/CD
-* ### Want to learning
+Thank you for visiting my Github Page!
+
+I am Chan Woo, working as a React Native Front-End developer.
+
+* ### Mainly used
   * React, React Native
   * Next.js
+  * Nest.js
+  * Docker
+  * JetBrain Tools
+* ### Want to learning
   * Spring
+  * DB
+  * MSA
+  * Kafka
 * * *
-# Language 
+# Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=effx13&exclude_repo=Algorithm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-# Framework
-<img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"> 
