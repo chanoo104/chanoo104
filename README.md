@@ -1,17 +1,16 @@
 # Hello!👋
 Thank you for visiting my Github Page!
 
-I am Chan Woo, working as a React Native Front-End developer.
+I am Chan Woo, working as a Front-End developer.
 
 * ### Mainly used
   * React, React Native
   * Next.js
   * Nest.js
+  * Spring
   * Docker
   * JetBrain Tools
 * ### Want to learning
-  * Spring
-  * DB
   * MSA
   * Kafka
 * * *
